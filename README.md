@@ -7,6 +7,8 @@
 * Clone the repo {git clone https://github.com/synthiakageni/my-portfolio.git}
 {
 ## Live link
+https://github.com/synthiakageni/my-portfolio.git}
+{
 ## Known Bugs
 There are no known bugs
 ## Technologies Used
@@ -15,6 +17,5 @@ css
 ## Support and contact details
 {synthiakageni@gmail.com}
 ### License
-*{Determine the license under which this application can be used.  See below for more details on licensing.}*
 This is under the [MIT](LICENSE) license
 Copyright (c) {2021} **{synthia kageni**
