@@ -1,5 +1,4 @@
 
-# {MY PORTFOLIO}
 #### By **{synthia kageni}**
 ## Description
 {This is about me.Through it you get to know me better.my education background and even my hobbies }
