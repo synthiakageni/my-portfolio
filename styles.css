@@ -13,6 +13,8 @@ p{
     color: chartreuse;
     font-size: larger;
     font-style: obliques;
+    background-color: orchid;
+    
 }
 ol{
     line-height: 40px;
@@ -25,4 +27,5 @@ img{
 body{
     background-color: hotpink;
     text-align: left;
+    
 }
