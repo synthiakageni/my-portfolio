@@ -7,17 +7,21 @@ h2{
     font-style: italic;
     text-align: center;
 }
+
+
 p{
-    font-family: sans-serif;
+    color: chartreuse;
+    font-size: larger;
+    font-style: obliques;
 }
 ol{
     line-height: 40px;
-}
+}    
 img{
     height: 40%;
     width: 35%;
     
 }
 body{
-background-color: hotpink;
+    background-color: hotpink;
 }
