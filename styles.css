@@ -20,6 +20,8 @@ p{
 }
 ol{
     line-height: 40px;
+    font-size: x-large;
+    color: darkblue;
 }    
 img{
     height: 40%;
