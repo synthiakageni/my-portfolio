@@ -22,6 +22,11 @@ ol{
     line-height: 40px;
     font-size: x-large;
     color: darkblue;
+}
+ul{
+    line-height: 40px;
+    font-size: x-large;
+    color: darkblue;
 }    
 img{
     height: 40%;
@@ -31,5 +36,8 @@ img{
 body{
     background-color: hotpink;
     text-align: left;
+    margin-top: 40px;
+    margin-left: 40px;
+    margin-right: 100px;
     
 }
