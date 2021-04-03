@@ -3,9 +3,10 @@ h1{
     text-align: center;
 }
 h2{
-    color: green;
+    color:brown;
     font-style: italic;
     text-align: center;
+    font-size: xx-large;
 }
 
 
@@ -14,6 +15,7 @@ p{
     font-size: larger;
     font-style: obliques;
     background-color: orchid;
+
     
 }
 ol{
