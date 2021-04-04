@@ -11,10 +11,10 @@ h2{
 
 
 p{
-    color: chartreuse;
-    font-size: larger;
+    color:darkblue;
+    font-size: xx-large;
     font-style: obliques;
-    background-color: orchid;
+    
 
     
 }
@@ -31,13 +31,21 @@ ul{
 img{
     height: 40%;
     width: 35%;
-    
+    float: none;
+    align-content: center;
+    justify-content: center;
 }
 body{
-    background-color: hotpink;
+    background-color: black;
     text-align: left;
     margin-top: 40px;
     margin-left: 40px;
     margin-right: 100px;
     
+    
+}
+h3{
+    color: brown;
+    font-style: italic;
+    font-size: xx-large;
 }
