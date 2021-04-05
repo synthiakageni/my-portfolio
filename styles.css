@@ -1,51 +1,77 @@
-h1{
-    color:blue;
-    text-align: center;
+/* 
+
+
+
+/* ul{
+    line-height: 40px;
+    font-size: x-large;
+    color: darkblue;
+} */
+
+img {
+    height: 300px;
+    width: 200px;
+    float: none;
+    align-content: center;
+    justify-content: center;
+    margin-left: 200px;
 }
-h2{
+
+body {
+    background-color:lightgrey;
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+    
+}
+
+h3 {
+    color: brown;
+    font-style: italic;
+    font-size: xx-large;
+}
+
+.About-me {
+    float: right;
+    width: 40%;
+}
+
+.About-me p {
+    font-size: 20px;
+    color: white;
+    font-weight: 500;
+    padding-right:20%;
+}
+.About-me h2{
+    color: brown;
+    font-size: x-large;
+    font-style: italic;
+}
+p{
+    font-size: 20;
+}h2{
     color:brown;
     font-style: italic;
     text-align: center;
     font-size: xx-large;
 }
-
-
-p{
-    color:darkblue;
-    font-size: xx-large;
-    font-style: obliques;
-    
-
-    
-}
 ol{
     line-height: 40px;
     font-size: x-large;
-    color: darkblue;
+    color: black;
+} 
+.introduction{
+    background-color: black;
+    margin-bottom: 0%;
 }
-ul{
-    line-height: 40px;
-    font-size: x-large;
-    color: darkblue;
-}    
-img{
-    height: 40%;
-    width: 35%;
-    float: none;
-    align-content: center;
-    justify-content: center;
-}
-body{
-    background-color: yellow;
-    text-align: left;
-    margin-top: 40px;
-    margin-left: 40px;
-    margin-right: 100px;
-    
-    
-}
-h3{
-    color: brown;
-    font-style: italic;
-    font-size: xx-large;
+.hobbies{
+    margin-left: 20%;
+    margin-right: 20%;
+    background-color:grey;
+    margin-top: 0%;
+    padding: 5%;
+
+}h1{
+    color:brown;
+    text-align: center;
 }
